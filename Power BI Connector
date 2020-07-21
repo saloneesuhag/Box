@@ -6,8 +6,8 @@ section Boxtry;
     client_secret = "";
     redirect_uri = "https://oauth.powerbi.com/views/oauthredirect.html";
     token_uri = "https://api.box.com/oauth2/token";
-    authorize_uri = "https://corning.account.box.com/api/oauth2/authorize";
-    logout_uri = "https://corning.account.box.com/logout";
+    authorize_uri = "https://xxx.account.box.com/api/oauth2/authorize";
+    logout_uri = "https://xxx.account.box.com/logout";
 
 
 
